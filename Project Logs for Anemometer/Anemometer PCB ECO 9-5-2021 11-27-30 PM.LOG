@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=L1 NewDesignator=LED1
+Added Class: Name=SPI_BUS
